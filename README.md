@@ -32,7 +32,7 @@
 
 - 💬 Talk to me about JavaScript (especially React and Node, Express), PHP,  Mobile(React native for Android/iOS),  Freelancing Opportunites, Open Source 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me </h2>
 <a href = 'Neksonnekson'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/nemanja2905'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
